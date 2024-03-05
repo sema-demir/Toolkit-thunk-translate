@@ -8,3 +8,7 @@ React-Redux: Durum yönetimi için kullanılmıştır.
 Tailwind CSS: Hızlı ve etkili bir şekilde stil oluşturmak için tercih edilmiştir.
 Axios: API istekleri yapmak için kullanılmıştır.
 React-Select: Gelişmiş seçim giriş işlevselliği sağlamak için tercih edilmiştir.
+
+<h4>Ekran Görüntüsü</h4>
+
+![](translate.gif)
